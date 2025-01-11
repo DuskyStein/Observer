@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509307189963",
+    "project_id": "verdant-option-146706",
+    "storage_bucket": "verdant-option-146706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509307189963:android:a2c99097014247d532394e",
+        "android_client_info": {
+          "package_name": "com.example.observer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509307189963-gersqj6h0ur1df8n6srkltovli3k2970.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDey-ZCvqZbR1mzIWZruq-prHhHk1xd0_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509307189963-gersqj6h0ur1df8n6srkltovli3k2970.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
